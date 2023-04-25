@@ -13,6 +13,7 @@
 [container-badge-jax]: https://img.shields.io/static/v1?label=&message=JAX&color=gray&logo=docker
 [container-badge-t5x]: https://img.shields.io/static/v1?label=&message=T5X&color=gray&logo=docker
 [container-badge-pax]: https://img.shields.io/static/v1?label=&message=PAX&color=gray&logo=docker
+[container-badge-rosetta]: https://img.shields.io/static/v1?label=&message=ROSETTA&color=gray&logo=docker
 [container-badge-te]: https://img.shields.io/static/v1?label=&message=TE&color=gray&logo=docker
 
 [container-link-base]: https://github.com/NVIDIA/JAX-Toolbox/pkgs/container/jax-toolbox
