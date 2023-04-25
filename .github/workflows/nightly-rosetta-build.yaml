@@ -2,7 +2,7 @@ name: Nightly Rosetta build
 
 on:
   workflow_run:
-    workflows: [Nightly Rosetta build]
+    workflows: [Nightly T5X build]
     types: [completed]
   workflow_dispatch:
     inputs:
